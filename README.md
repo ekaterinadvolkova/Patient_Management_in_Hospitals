@@ -27,7 +27,7 @@
 <li>Javadoc</li>
 <li>package hospital</li>
 <li>PatientQueue</li>
-<li>package people (skeleton on next page)</li>
+<li>package people </li>
 <li>Person (models a person with name)</li>
 <li>Doctor inherits Person</li>
 <li>Patient inherits Person</li>
